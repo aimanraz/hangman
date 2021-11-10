@@ -1,5 +1,5 @@
 # Hangman project
-Its all laugh and fun till stickman is dead. 
+Its all laugh and fun till stickman is dead. The user have to guess the letter with the blankspace given.
 
 ## Code and Resources Used 
 **Python Version:** 3.8++
@@ -8,4 +8,4 @@ Its all laugh and fun till stickman is dead.
 
 ## Flow of the program
 
-![MNIST]()
+![Flowchart](https://github.com/aimanraz/hangman/blob/main/img/Hangman%20Flowchart.png)
