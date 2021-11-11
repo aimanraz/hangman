@@ -94,7 +94,7 @@ while not win_lose: # will stop if number of life =0
       num_life -= 1
       print(stages[num_life])
 
-  # displaying the 
+  # displaying the remaining blankspace
   print(display)
 
   if "_" not in display:
